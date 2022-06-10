@@ -1,0 +1,23 @@
+.App {
+  text-align: center;
+  width: 100vw;
+  height: 100vh;
+  background-color: #bdc3c7;
+}
+header{
+  width: 100%;
+  padding: 1px;
+  background-color: rgb(12, 12, 12);
+  margin-bottom: 40px;
+}
+ul{
+  list-style: none;
+  display: flex;
+  justify-content: space-evenly;
+  font-size: 22px;
+  color: white;
+}
+ul li Link:visited{
+  color: blue;
+}
+
